@@ -1,7 +1,7 @@
 import csv
 import random
 import time
-#F:\Rayan Lycée 2020\1ère spé NSI\Chapitre 15
+#indiquer le chemin courant avec un cd
 
 def importdepuiscsv():
     global listemot
@@ -292,5 +292,3 @@ def pendu():
                 print("Vous avez perdu, le mot était "+mot)
                 break
             print(lettresénoncées)
-#F:\Rayan Lycée 2020\1ère spé NSI\Chapitre 15
-
